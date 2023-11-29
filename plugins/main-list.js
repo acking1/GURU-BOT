@@ -44,6 +44,7 @@ break;
    ⎪⌲👑 _${usedPrefix}groups_
    ⎪⌲👑 _${usedPrefix}blocklist_
    ⎪⌲👑 _${usedPrefix}listprem_
+   ⎪⌲👑 _${usedPrefix}autoreact_
    ⎪⌲👑    Guru
    ┗━━━ʕ•㉨•ʔ━━━┛`; // Your bot menu message here
           break;
